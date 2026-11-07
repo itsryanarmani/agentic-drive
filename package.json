@@ -37,7 +37,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-drive",
+  "mcpName": "io.github.itsryanarmani/agentic-drive",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
